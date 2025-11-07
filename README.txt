@@ -1,4 +1,4 @@
-# Details:-
+## Details:-
 
 Name: Pawan Tripathi
 Internship Title: Front-End Development Internship
@@ -7,13 +7,13 @@ Duration: 22nd October 2025 – 22nd November 2025
 Location: Remote
 
 
-# Overview:-
+## Overview:-
 
 This repository contains all six tasks completed as part of my Front-End Development Internship at Cognifyz Technologies.
 Each task focuses on improving different aspects of front-end skills — from basic HTML structure to working with APIs, styling frameworks, and interactivity using JavaScript.
 
 
-# Level 1: Basic HTML & CSS
+## Level 1: Basic HTML & CSS
 
 Task 1: Introduction Web Page
 
@@ -28,7 +28,7 @@ A. Applied basic inline CSS styling to understand how styles affect webpage appe
 B. Designed a “Quote of the Day” section and added an image with a descriptive caption.
 C. Improved color, spacing, and font presentation.
 
-# Level 2: Intermediate Projects
+## Level 2: Intermediate Projects
 
 Task 3: External CSS and Basic Layout
 
@@ -45,7 +45,7 @@ B. Added buttons to change the background color dynamically on click.
 C. Practiced JavaScript DOM manipulation and event handling.
 D. Understood how to use addEventListener() and modify CSS properties through JS.
 
-# Level 3: Advanced Projects
+## Level 3: Advanced Projects
 
 Task 5: API Integration Project
 
@@ -62,7 +62,7 @@ C. Focused on event handling, animations, and user interaction.
 
 
 
-# Key Learnings:-
+## Key Learnings:-
 
 A. Deep understanding of HTML5, CSS3, and JavaScript fundamentals
 B. Experience with responsive layouts and Tailwind CSS
@@ -70,7 +70,7 @@ C. Hands-on practice with APIs, DOM manipulation, and animations
 D. Improved code organization and design thinking
 
 
-# Contact:- 
+## Contact:- 
 
 A. LinkedIn: https://www.linkedin.com/in/pawan-tripathi-9a8158367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
